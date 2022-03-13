@@ -1,0 +1,8 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/PokeApi/.vs/PokeApi
+/.vs
+/PokeApi/PokeApi/bin/Debug/net5.0
+/PokeApi/PokeApi/obj
